@@ -1,0 +1,1 @@
+window.continJump=2,window.MONEY=100,window.JEWEL=100,window.ISDIE=!1,window.CANROLL=!1;
